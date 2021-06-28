@@ -1,6 +1,6 @@
-# burbanks-2020-06-23-code-rigorous-degree-4-arxiv-2006-13127
+# burbanks-2021-04-22-code-rigorous-degree-4-jmp21-ar-00685
 
-## Source code to reproduce the rigorous results of the preprint arXiv:2006.13127
+## Source code to reproduce the rigorous results of the preprint jmp21-ar-00685
 
 ### Preprint
 
@@ -18,13 +18,9 @@ We gain tight rigorous bounds on the renormalisation fixed point for period doub
 * Judi A Thurlby.
 * Andrew H Osbaldestin.
 
-**DATE**
+**SUBMITTED**
 
-2020-06-23
-
-**LINK**
-
-https://arxiv.org/abs/2006.13127
+2021-04-22
 
 ## Code
 
