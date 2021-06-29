@@ -1,6 +1,6 @@
 # burbanks-2021-04-22-code-rigorous-degree-4-jmp21-ar-00685
 
-## Source code to reproduce the rigorous results of the preprint jmp21-ar-00685
+## Source code to reproduce the rigorous results and figures of the preprint jmp21-ar-00685
 
 ### Preprint
 
