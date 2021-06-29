@@ -4,6 +4,10 @@
 
 ### Preprint
 
+**REFERENCE**
+
+Manuscript #JMP21-AR-00685
+
 **TITLE**
 
 Rigorous computer-assisted bounds on the period doubling renormalisation fixed point and eigenfunctions in maps with critical point of degree 4.
