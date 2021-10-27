@@ -27,6 +27,10 @@ We gain tight rigorous bounds on the renormalisation fixed point for period doub
 
 2021-04-22
 
+**ACCEPTED**
+
+2021-10-18
+
 ## Code
 
 ### 1 Quick start
