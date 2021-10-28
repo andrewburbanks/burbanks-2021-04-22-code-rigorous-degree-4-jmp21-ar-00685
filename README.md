@@ -6,7 +6,8 @@
 
 **REFERENCE**
 
-Published Manuscript doi: 10.1063/5.0054823
+Published Manuscript doi: <a href="https://doi.org/10.1063/5.0054823">10.1063/5.0054823</a>
+
 Submitted Manuscript #JMP21-AR-00685
 
 **TITLE**
