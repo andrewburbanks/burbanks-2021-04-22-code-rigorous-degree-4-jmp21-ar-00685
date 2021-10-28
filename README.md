@@ -2,6 +2,8 @@
 
 ## Source code to reproduce the rigorous results and figures of the preprint jmp21-ar-00685
 
+(The source code included in this repository was submitted as a .zip file to the journal as part of the original submission.)
+
 ### Preprint
 
 **REFERENCE**
