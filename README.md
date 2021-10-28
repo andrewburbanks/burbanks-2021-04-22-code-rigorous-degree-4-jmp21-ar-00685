@@ -1,5 +1,7 @@
 # burbanks-2021-04-22-code-rigorous-degree-4-jmp21-ar-00685
 
+[![DOI](https://zenodo.org/badge/380984228.svg)](https://zenodo.org/badge/latestdoi/380984228)
+
 ## Source code to reproduce the rigorous results and figures of the preprint jmp21-ar-00685
 
 (The source code included in this repository was submitted as a .zip file to the journal as part of the original submission.)
